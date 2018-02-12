@@ -1,0 +1,92 @@
+﻿
+ 
+
+/*Universal Selector - Changed overall color of text*/
+* {font-family:Cambria, Arial, Times New Roman;
+   color: #605858}
+
+
+/*Type Selector - Changed all the h2 to the same color*/
+h1, h2, h3 {font-family:Cambria, Arial, Times New Roman;
+               color: #000000
+}
+
+
+/*Class Selector - I dont have very many p class but the ones that I do have changed */
+p.note {
+    font-family: Cambria, Arial, Times New Roman;
+    font-size: 16px;
+    color: #605858
+}
+
+body {
+    background-color: #9BD3FD;
+}
+/*For the text */
+h2 {
+    color: antiquewhite;
+    background-color: #055491;
+}
+
+a {
+    font-family: Cambria, Arial, Times New Roman;
+    font-size: 16px;
+    color: #2600FF;
+}
+/*Strictly for one short line of text*/
+#Gamertag: DMB GRUX 41 {
+    font-family: Cambria, Arial, Times New Roman;
+    font-size: 16px;
+    color: #01840C;
+}
+
+
+ins {
+    font-family: Cambria, Arial, Times New Roman;
+    font-size: 16px;
+    color: #FB12A1;
+}
+
+p {  
+     font-family: Cambria;
+     font-size: 16px;
+    }
+
+#div {
+    border: 5px solid antiquewhite;
+    width: 62%;
+}
+
+#div2 {
+    align-content: center;
+    width: 499px;
+    height: 273px;
+}
+#div3 {
+    color: #FF7802;
+}
+
+/*Links*/
+a:link {
+    color: #0101DF;
+    text-decoration: none;
+}
+a:visited {
+    color: #0101DF;
+}
+
+
+
+a:hover {
+    color: #B75B00;
+    text-decoration: underline;}
+a:active {color: red;}
+
+#loading-gif {
+    position: Bottom;
+    align-content: center;
+    padding:5px;
+    text-align: center;
+}
+
+
